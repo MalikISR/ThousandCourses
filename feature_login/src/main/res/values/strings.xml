@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="forgot_password">Забыл пароль</string>
+    <string name="registration">Регистрация</string>
+    <string name="no_account">Нет аккаунта?</string>
+    <string name="sing_in">Вход</string>
+    <string name="enter_password">Введите пароль</string>
+    <string name="mail">example@gmail.com</string>
+</resources>

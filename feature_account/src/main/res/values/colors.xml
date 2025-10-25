@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="backgroundColor">#151515</color>
+    <color name="cardBackground">#24252A</color>
+    <color name="textPrimary">#1E1E1E</color>
+    <color name="textSecondary">#B0B0B0</color>
+    <color name="logoutButton">#D00B1F</color>
+</resources>

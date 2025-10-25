@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.ThousandCourses.Button" parent="Widget.MaterialComponents.Button">
+        <item name="android:background">@drawable/button_vk_bg</item>
+        <item name="backgroundTint">@null</item>
+        <item name="cornerRadius">25dp</item>
+    </style>
+</resources>
